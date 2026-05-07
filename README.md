@@ -28,6 +28,7 @@
 
 ## Quick Install
 
+
 **Plugin marketplace** (recommended):
 
 ```bash
